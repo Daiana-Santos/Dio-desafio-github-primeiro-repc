@@ -21,7 +21,7 @@
  - Intrudução ao GitHub
  - Resolvendo conflitos
     
-  CRIANDO PRIMEIRO REPOSITÓRIO 
+  CRIANDO PRIMEIRO REPOSITÓRIO 🗂️
  - Compartilhar o progresso com o primeiro repositório
 
 
